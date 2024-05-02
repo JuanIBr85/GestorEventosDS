@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\bin\Debug\GestorEventos.Servicios.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\bin\Debug\GestorEventos.Servicios.pdb
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.pdb
