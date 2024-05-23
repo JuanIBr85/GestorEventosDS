@@ -32,3 +32,4 @@ C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\r
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.pdb
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\ref\GestorEventos.Api.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.sourcelink.json

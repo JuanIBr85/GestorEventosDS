@@ -24,7 +24,7 @@ namespace GestorEventos.Api.Controllers
             TipoEvento tipoEvento = tipoEventoService.GetTipoEventoPorId(IdTipoEvento);
 
             if (tipoEvento == null)
-                return NotFound();
+                return UnprocessableEntity();
             else
             return Ok(tipoEvento);
         }

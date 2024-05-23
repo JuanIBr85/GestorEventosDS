@@ -4,3 +4,6 @@ C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\Ge
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.dll
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEventos.Servicios.pdb
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\bin\Debug\Dapper.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\bin\Debug\Dapper.xml
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Servicios\obj\Debug\GestorEv.DA1DC62A.Up2Date

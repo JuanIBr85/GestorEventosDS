@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\servicios\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\servicios\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.api\\controllers\\personacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|solutionrelative:gestoreventos.api\\controllers\\personacontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\entidades\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\entidades\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.servicios\\entidades\\localidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\entidades\\localidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.api\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|solutionrelative:gestoreventos.api\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|solutionrelative:gestoreventos.api\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\servicios\\serviciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\servicios\\serviciosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.api\\controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|solutionrelative:gestoreventos.api\\controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\servicios\\tipoeventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\servicios\\tipoeventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|C:\\Users\\Usuario\\source\\repos\\GestorEventos\\gestoreventos.servicios\\servicios\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24711714-C888-4AB4-B9C0-3538A917D84E}|GestorEventos.Servicios\\GestorEventos.Servicios.csproj|solutionrelative:gestoreventos.servicios\\servicios\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{86BA9C53-09A5-4F98-9360-FA95786F26EA}|GestorEventos.Api\\GestorEventos.Api.csproj|c:\\users\\usuario\\source\\repos\\gestoreventos\\gestoreventos.api\\gestoreventos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,112 +42,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiciosController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\ServiciosController.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Api\\Controllers\\ServiciosController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\ServiciosController.cs",
-              "RelativeToolTip": "GestorEventos.Api\\Controllers\\ServiciosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T02:08:31.474Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Servicio.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\Servicio.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Entidades\\Servicio.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\Servicio.cs",
-              "RelativeToolTip": "GestorEventos.Servicios\\Entidades\\Servicio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:46:40.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiciosService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
-              "RelativeToolTip": "GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T22:33:13.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonaControler.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\PersonaControler.cs",
               "RelativeDocumentMoniker": "GestorEventos.Api\\Controllers\\PersonaControler.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\PersonaControler.cs",
               "RelativeToolTip": "GestorEventos.Api\\Controllers\\PersonaControler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:24:25.599Z",
+              "WhenOpened": "2024-05-23T00:04:01.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TipoEventoController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\TipoEventoController.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Api\\Controllers\\TipoEventoController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\TipoEventoController.cs",
-              "RelativeToolTip": "GestorEventos.Api\\Controllers\\TipoEventoController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Localidad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\Localidad.cs",
+              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Entidades\\Localidad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\Localidad.cs",
+              "RelativeToolTip": "GestorEventos.Servicios\\Entidades\\Localidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T19:17:17.963Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TipoEventoService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\TipoEventoService.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Servicios\\TipoEventoService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\TipoEventoService.cs",
-              "RelativeToolTip": "GestorEventos.Servicios\\Servicios\\TipoEventoService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:48:54.683Z"
+              "WhenOpened": "2024-05-23T00:03:52.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TipoEvento.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\TipoEvento.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Entidades\\TipoEvento.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Entidades\\TipoEvento.cs",
-              "RelativeToolTip": "GestorEventos.Servicios\\Entidades\\TipoEvento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "GestorEventos.Api\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "GestorEventos.Api\\Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T18:43:41.584Z",
+              "WhenOpened": "2024-05-18T23:06:26.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonaService.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\PersonaService.cs",
-              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Servicios\\PersonaService.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\PersonaService.cs",
-              "RelativeToolTip": "GestorEventos.Servicios\\Servicios\\PersonaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAANAAAA",
+              "DocumentIndex": 3,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "GestorEventos.Api\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "GestorEventos.Api\\Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T17:22:29.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T00:30:03.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "GestorEventos.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Api\\GestorEventos.Api.csproj",
               "RelativeDocumentMoniker": "GestorEventos.Api\\GestorEventos.Api.csproj",
@@ -167,7 +125,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "ServiciosService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
+              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
+              "RelativeToolTip": "GestorEventos.Servicios\\Servicios\\ServiciosService.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:47:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\EventoService.cs",
+              "RelativeDocumentMoniker": "GestorEventos.Servicios\\Servicios\\EventoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Servicios\\EventoService.cs",
+              "RelativeToolTip": "GestorEventos.Servicios\\Servicios\\EventoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:30:11.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestorEventos\\GestorEventos.Servicios\\Class1.cs",
               "RelativeDocumentMoniker": "GestorEventos.Servicios\\Class1.cs",

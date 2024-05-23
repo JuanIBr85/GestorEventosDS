@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -50,6 +51,45 @@ namespace GestorEventos.Servicios.Servicios
             }catch (Exception) 
             {
                 return false;
+            }
+        }
+
+        public bool PutNuevoServicio (int IdServicios, ServicioDS servicioDS) 
+        {
+            try
+            {
+                var servicioDeLista = this.ServiciosDespedida.Where(x => x.IdServicios == IdServicios).First(); //LINQ o manejo de listas reemplaza el foreach
+                                                                                                                // modifica el evento
+                servicioDeLista.DescripcionServicio = servicioDS.DescripcionServicio;
+                servicioDeLista.PrecioUnitarioSs = servicioDS.PrecioUnitarioSs;
+
+                return true;
+
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+        }
+
+        public bool DeleteServicio (int IdServicios)         
+        {
+            try
+            {
+                var servicioAEliminar = this.ServiciosDespedida.Where(x => x.IdServicios == IdServicios).First();
+
+                var listaServicios = this.ServiciosDespedida.ToList();
+
+                servicioAEliminar.visible = false;
+
+                return true;
+            }
+
+            catch (Exception)
+
+            {
+                return false;
+
             }
         }
     }

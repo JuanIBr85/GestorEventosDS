@@ -26,9 +26,64 @@ namespace GestorEventos.Api.Controllers
             Persona persona = personaService.GetPersonaDePruebaSegunId(IdPersona);
 
             if (persona == null)
-                return NotFound();
-            else 
+                return UnprocessableEntity();
+            else
                 return Ok(persona);
+        }
+
+        [HttpPost("ALtaPersona")]
+
+        public IActionResult PostNuevaPersona([FromBody] Persona persona)
+        {
+            PersonaService personaService = new PersonaService();
+
+            bool resultado = personaService.PostNuevaPersona(persona);
+
+            if (resultado)
+            {
+                return Ok();
+            }
+            else
+            {
+                return UnprocessableEntity();
+
+            }
+
+        }
+
+        // Modificar un recurso existente
+        [HttpPut("ModificarPersona/{idPersona:int}")]
+        public IActionResult PutNuevaPersona(int idPersona, [FromBody] Persona persona)
+        {
+            PersonaService personaService = new PersonaService();
+            bool resultado = personaService.PutNuevaPersona(idPersona, persona);
+
+            if (resultado)
+            {
+                return Ok();
+            }
+            else
+            {
+                return UnprocessableEntity();
+            }
+        }
+
+        // borrado logico
+        [HttpDelete("{idPersona:int}/BorrarPersona")]
+        public IActionResult DeletePersona(int idPersona)
+        {
+            PersonaService personaService = new PersonaService();
+            bool resultado = personaService.DeletePersona(idPersona);
+
+            if (resultado)
+            {
+                return Ok();
+            }
+            else
+            {
+                return UnprocessableEntity();
+            }
+
         }
     }
 }

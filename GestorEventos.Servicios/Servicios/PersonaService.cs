@@ -62,5 +62,66 @@ namespace GestorEventos.Servicios.Servicios
 
             }
         }
+
+        public bool PostNuevaPersona (Persona persona)
+        {
+            try 
+            {
+                List<Persona> lista = this.PersonasDePrueba.ToList();
+
+                return true;
+            }
+            catch (Exception) 
+           
+            {
+                return false;
+            }
+        }
+
+        public bool PutNuevaPersona(int idPersona, Persona persona) 
+        {
+            try 
+            {
+                var personaDeLista = this.PersonasDePrueba.Where(x => x.IdPersona == idPersona).First(); //LINQ o manejo de listas reemplaza el foreach
+
+                personaDeLista.Nombre= persona.Nombre;
+                personaDeLista.Apellido= persona.Apellido;
+                personaDeLista.Telefono= persona.Telefono;
+                personaDeLista.Email= persona.Email;
+                personaDeLista.DireccionCalle= persona.DireccionCalle;
+                personaDeLista.DireccionCodigoPostal=persona.DireccionCodigoPostal;
+                personaDeLista.DireccionPiso = persona.DireccionPiso;
+                personaDeLista.DireccionNumero= persona.DireccionNumero;
+                personaDeLista.DireccionDepartamento = persona.DireccionDepartamento;
+                personaDeLista.visible= persona.visible;
+
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }  
+        }
+
+        public bool DeletePersona(int idPersona)
+        {
+            try
+            {
+                var personaAEliminar = this.PersonasDePrueba.Where(x => x.IdPersona == idPersona).First();
+
+                var listaPersonas = this.PersonasDePrueba.ToList();
+
+                personaAEliminar.visible = false;
+
+                return true;
+            }
+
+            catch (Exception)
+
+            {
+                return false;
+
+            }
+        }
     }
 }

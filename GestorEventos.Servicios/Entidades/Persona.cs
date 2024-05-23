@@ -21,6 +21,8 @@ namespace GestorEventos.Servicios.Entidades
         public string DireccionPiso { get; set; }
         public string DireccionDepartamento { get; set; }
 
-        public string DireccionCodigoPostal {  get; set; }
+        public string DireccionCodigoPostal { get; set; }
+        public bool visible { get; set; }
+
     }
 }
