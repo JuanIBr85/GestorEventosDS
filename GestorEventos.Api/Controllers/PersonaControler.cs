@@ -18,7 +18,7 @@ namespace GestorEventos.Api.Controllers
         }
 
         // devuelve un elemento , en este caso una persona
-        [HttpGet("{IdPersona:int}")]
+        [HttpGet("ConsultaPersona/{IdPersona:int}")]
         public IActionResult GetPesonaPorId(int IdPersona)
         {
             PersonaService personaService = new PersonaService();
@@ -50,7 +50,7 @@ namespace GestorEventos.Api.Controllers
             }
 
         }
-
+        
         // Modificar un recurso existente
         [HttpPut("ModificarPersona/{idPersona:int}")]
         public IActionResult PutNuevaPersona(int idPersona, [FromBody] Persona persona)
@@ -67,13 +67,29 @@ namespace GestorEventos.Api.Controllers
                 return UnprocessableEntity();
             }
         }
-
+        
         // borrado logico
-        [HttpDelete("{idPersona:int}/BorrarPersona")]
-        public IActionResult DeletePersona(int idPersona)
+        [HttpPatch("BorradoLogico/{idPersona:int}")]
+        public IActionResult BorradoLogicoPersona(int idPersona)
         {
             PersonaService personaService = new PersonaService();
-            bool resultado = personaService.DeletePersona(idPersona);
+            bool resultado = personaService.BorradoLogicoPersona (idPersona); 
+
+            if (resultado)
+            {
+                return Ok();
+            }
+            else
+            {
+                return UnprocessableEntity();
+            }
+
+        }
+        [HttpDelete("BorradoFisico/{idPersona:int}")]
+        public IActionResult BorradoFisicoPersona(int idPersona)
+        {
+            PersonaService personaService = new PersonaService();
+            bool resultado = personaService.BorradoFisicoPersona(idPersona);
 
             if (resultado)
             {

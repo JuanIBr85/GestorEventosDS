@@ -10,7 +10,9 @@ C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\S
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\GestorEventos.Servicios.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\Dapper.dll
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\GestorEventos.Servicios.pdb
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\Dapper.xml
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.AssemblyInfoInputs.cache
@@ -18,6 +20,7 @@ C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\G
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.sourcelink.json
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\staticwebassets\msbuild.GestorEventos.Api.Microsoft.AspNetCore.StaticWebAssets.props
@@ -32,4 +35,9 @@ C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\r
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.pdb
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\ref\GestorEventos.Api.dll
-C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\obj\Debug\net8.0\GestorEventos.Api.sourcelink.json
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\GestorEventos\GestorEventos.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

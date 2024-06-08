@@ -16,6 +16,6 @@ namespace GestorEventos.Servicios.Entidades
         public int IdTipoDespedida {  get; set; }
         public int IdPersonaContacto { get; set; }
         public int IdPersonaAgasajada { get; set; }
-        public bool visible {  get; set; }
+        public bool Visible {  get; set; }
     }
 }

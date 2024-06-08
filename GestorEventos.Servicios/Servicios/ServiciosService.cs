@@ -80,7 +80,7 @@ namespace GestorEventos.Servicios.Servicios
 
                 var listaServicios = this.ServiciosDespedida.ToList();
 
-                servicioAEliminar.visible = false;
+                servicioAEliminar.Visible = false;
 
                 return true;
             }

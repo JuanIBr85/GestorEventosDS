@@ -13,6 +13,6 @@ namespace GestorEventos.Servicios.Entidades
         public int IdServicios {  get; set; }
         public string DescripcionServicio {  get; set; }
         public decimal PrecioUnitarioSs {  get; set; }
-        public bool visible { get; set; }
+        public bool Visible { get; set; }
     }
 }

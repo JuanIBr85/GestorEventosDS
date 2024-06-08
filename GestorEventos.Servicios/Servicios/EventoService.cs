@@ -18,16 +18,16 @@ namespace GestorEventos.Servicios.Servicios
         {
             ElEvento = new List<Evento>()
             {
-                new Evento {IdEvento=1, CantPersonas=24,FechaEvento=DateTime.Now,IdPersonaAgasajada=3,IdPersonaContacto=1,IdTipoDespedida=2,NombreEvento="Fiesta disfraces Oscar",visible=true },
-                new Evento {IdEvento=2, CantPersonas=12,FechaEvento=DateTime.Now,IdPersonaAgasajada=1,IdPersonaContacto=2,IdTipoDespedida=1,NombreEvento="Gira por boliches",visible=true },
-                new Evento {IdEvento=3, CantPersonas=10,FechaEvento=DateTime.Now,IdPersonaAgasajada=2,IdPersonaContacto=3,IdTipoDespedida=2,NombreEvento="Fiesta disfraces Pablo",visible=true },
+                new Evento {IdEvento=1, CantPersonas=24,FechaEvento=DateTime.Now,IdPersonaAgasajada=3,IdPersonaContacto=1,IdTipoDespedida=2,NombreEvento="Fiesta disfraces Oscar",Visible=true },
+                new Evento {IdEvento=2, CantPersonas=12,FechaEvento=DateTime.Now,IdPersonaAgasajada=1,IdPersonaContacto=2,IdTipoDespedida=1,NombreEvento="Gira por boliches",Visible=true },
+                new Evento {IdEvento=3, CantPersonas=10,FechaEvento=DateTime.Now,IdPersonaAgasajada=2,IdPersonaContacto=3,IdTipoDespedida=2,NombreEvento="Fiesta disfraces Pablo",Visible=true },
             };
         }
 
         public IEnumerable<Evento> GetEventoDespedida()
 
         {
-            return this.ElEvento.Where(x=> x.visible==true); // trae solo los evento visible, luego de hacer un borrado logico
+            return this.ElEvento.Where(x=> x.Visible ==true); // trae solo los evento visible, luego de hacer un borrado logico
         }
 
         public Evento GetEventoDespedidaPorId(int IdEvento) 
@@ -96,7 +96,7 @@ namespace GestorEventos.Servicios.Servicios
 
                 /* borrador logico*/
 
-                eventoAEliminar.visible = false;
+                eventoAEliminar.Visible = false;
 
                 return true;        
             }
